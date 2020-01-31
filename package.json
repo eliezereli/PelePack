@@ -12,10 +12,11 @@
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
+    "@nuxtjs/axios": "^5.3.6",
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
-    "@nuxtjs/axios": "^5.3.6"
+    "nuxt": "^2.0.0",
+    "storyblok-nuxt": "^1.0.2"
   },
   "devDependencies": {
     "css-loader": "^3.4.2",

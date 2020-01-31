@@ -19,7 +19,7 @@
           <nuxt-link class="nav__item" to="/en/blog">English</nuxt-link>
         </li>
         <li>
-          <nuxt-link class="nav__item" to="/de/blog">German</nuxt-link>
+          <nuxt-link class="nav__item" to="/he/blog">Hebrew</nuxt-link>
         </li>
       </ul>
     </nav>
